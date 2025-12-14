@@ -1,5 +1,6 @@
 Hi there 👋
 I’m a Computer Science student interested in AI, data science, cybersecurity, and computer vision. I enjoy building practical, data‑driven projects and exploring how intelligent systems can solve real problems.
+
 🔭 Currently working on: AI projects, data workflows, automation
 
 🌱 Learning: Software security, algorithms, visual computing
