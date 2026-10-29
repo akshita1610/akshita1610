@@ -1,18 +1,18 @@
-Hi there 👋 I’m a Computer Science student specialising in Data Science, AI, and machine learning. I enjoy building practical, data‑driven projects — from recommendation systems and NLP tools to image classification models and predictive analytics. I’m also exploring cybersecurity fundamentals and cloud workflows as part of my broader interest in intelligent, secure systems.
+# 💫 About Me:
+🛠️ About Me<br>I’m currently working on: Building practical data science and machine learning projects (NLP tools, recommendation systems, and predictive analytics) to secure a Data Science/Data Analyst internship or summer placement.<br><br>I’m looking to collaborate on: Innovative data science and AI projects where I can apply my skills, optimize workflows, and learn new frameworks alongside other developers.<br><br>I’m looking for help with: Expanding my technical knowledge, discovering efficient problem-solving strategies, and mastering advanced cloud and data pipeline automation workflows.<br><br>Ask me about: Data analytics, machine learning algorithms, algorithmic problem solving, or anything tech-related—I’m always up for a good technical conversation!<br><br>⚡ Fun fact: I’ve been coding since I was 15 and love solving complex algorithmic puzzles! Outside of tech, I’m a professional dancer and visual artist who loves fashion, design, photography, and videography.<br><br>💻 Tech Stack<br>Languages & Databases: Python, SQL, MySQL, Java, C<br><br>ML / Data Science & Tools: TensorFlow, Keras, Jupyter, pandas, NumPy, Excel<br><br>Cloud, DevOps & Version Control: Git, AWS S3, Cloud Workflows<br><br>Focus Areas: Data Pipelines, NLP, Image Classification, Predictive Analytics, Cybersecurity Fundamentals
 
-🔭 Currently working on: ML models, NLP projects, data pipelines, automation tools
-🌱 Learning: Algorithms, software security, visual computing, deep learning techniques
-🛠️ Tech I use: Python, SQL/MySQL, Java, C, TensorFlow/Keras, Jupyter, Git, Excel, AWS S3, CVAT
-📫 Reach me: akshitamalayathi2006@gmail.com
 
-⚡ Fun Facts
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshita-malayathi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshitamalayathi2006@gmail.com) 
 
-I’m a professional dancer and love expressing creativity through movement
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=akshita1610&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=akshita1610&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=akshita1610&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I’m a visual artist with a passion for drawing, crafts, and design
+---
+[![](https://komarev.com/ghpvc/?username=akshita1610&icon=0&color=0)](https://visitcount.itsvg.in)
 
-I enjoy photography and videography — especially capturing people and events
-
-I love fashion and styling
-
-I’m always experimenting with new skills, hobbies, and ideas
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
